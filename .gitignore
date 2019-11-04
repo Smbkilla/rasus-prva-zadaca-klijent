@@ -1,0 +1,9 @@
+# Default ignored files
+/.idea/workspace.xml
+/target/
+.mvn
+
+.idea
+*.iws
+*.iml
+*.ipr.xml
