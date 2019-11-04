@@ -1,4 +1,4 @@
-package model;
+package hr.fer.prvazadcaklijent.model;
 
 public class UserAddress {
     private String ipAddress;
